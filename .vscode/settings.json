@@ -1,0 +1,7 @@
+{
+    "dart.customDevTools": {},
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.triggerExpansionOnTab": true
+}
